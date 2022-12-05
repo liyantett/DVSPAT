@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 from net.resnet import resnet34;
-
+from net.resnet_gcn import GCN_layer;
 
 
 
